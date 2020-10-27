@@ -96,6 +96,7 @@
     { "name": "grape", "code": "72604170", "number": 0 },
     { "name": "cherry", "code": "72604201", "number": 0 },
     { "name": "horse", "code": "72602791", "number": 0 },
-    { "name": "flower", "code": "72603073", "number": 0 }
+    { "name": "flower", "code": "72603073", "number": 0 },
+    { "name": "carrot", "code": "73515996", "number": 0 }
   ]
 }
