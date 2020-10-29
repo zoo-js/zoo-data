@@ -8,27 +8,27 @@ const { GH_TOKEN: githubToken } = process.env;
 const octokit = new Octokit({ auth: `token ${githubToken}` });
 
 const organizations = JSON.parse(fs.readFileSync('./json/organizations.json'));
+const members = JSON.parse(fs.readFileSync('./json/members.json'));
 
 const day = new Date().toLocaleDateString();
 
-let newOrg = {...organizations};
+let newMembers = {...members};
 
 async function main() {
-  newOrg.updateTime = day;
+  newMembers.updateTime = day;
   let arr = [];
-  for (var i = 0; i < newOrg.data.length; i++) {
-    let newNumber = await getNumber(newOrg.data[i]);
+  for (var i = 0; i < organizations.data.length; i++) {
+    let newNumber = await getNumber(organizations.data[i]);
+    console.log(`Get! ${i}`);
     arr.push({
-      name: newOrg.data[i].name,
-      code: newOrg.data[i].code,
-      number: newNumber.length - 1,
-      fullName: newOrg.data[i].fullName
+      name: organizations.data[i].name,
+      number: newNumber.length - 1
     });
   }
   if (arr.length === organizations.data.length) {
     console.log('done!');
-    newOrg.data = arr;
-    fs.writeFileSync('./json/organizations.json', JSON.stringify(newOrg));
+    newMembers.data = arr;
+    fs.writeFileSync('./json/members.json', JSON.stringify(newMembers));
   }
 }
 
