@@ -8,7 +8,7 @@ on:
     - cron: "0 12 * * *"
 
 jobs:
-  update-gist:
+  update-number:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
