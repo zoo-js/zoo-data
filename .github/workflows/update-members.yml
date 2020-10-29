@@ -1,11 +1,11 @@
-name: Update organizations data
+name: Update members number
 
 on:
   push:
     branches: main
 
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 12 * * *"
 
 jobs:
   update-gist:
@@ -17,7 +17,7 @@ jobs:
         run: yarn
 
       - name: Update data
-        run: node ./index.js
+        run: node ./script/update-members.js
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
       
@@ -28,5 +28,5 @@ jobs:
           git config --global user.name "xrkffgg"
           git pull
           git add -A
-          git commit -m "🤖 Auto updated" || exit 0
+          git commit -m "🤖 auto: updated members number" || exit 0
           git push
