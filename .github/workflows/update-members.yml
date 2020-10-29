@@ -1,0 +1,32 @@
+name: Update members number
+
+on:
+  push:
+    branches: main
+
+  schedule:
+    - cron: "0 12 * * *"
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+
+      - name: Install
+        run: yarn
+
+      - name: Update data
+        run: node ./script/update-members.js
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "xrkffgg@vip.qq.com"
+          git config --global user.name "xrkffgg"
+          git pull
+          git add -A
+          git commit -m "🤖 auto: updated members number" || exit 0
+          git push
