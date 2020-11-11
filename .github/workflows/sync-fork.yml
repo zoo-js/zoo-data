@@ -1,0 +1,20 @@
+name: Sync zoo fork
+
+on:
+  push:
+    branches: main
+
+  schedule:
+    - cron: "0 12 */15 * *"
+
+jobs:
+  update-number:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+
+      - name: Install jq
+        run: sudo apt-get install jq
+
+      - name: Update data
+        run: sh shell/sync-fork.sh
