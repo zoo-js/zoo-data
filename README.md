@@ -39,6 +39,12 @@ The number of people in the pet organization.
 
 Update the number of members according to `organizations.json`.
 
+## 🖇 shell
+
+### 📎 sybc-fork
+
+Bulk update `zoo` fork. Sorry, only I have permission. And this doesn't work on GitHub Actions.
+
 ## 💬 How it work?
 
 1. Copy `test.env` to `.env`
