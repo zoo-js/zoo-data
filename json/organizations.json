@@ -6,462 +6,554 @@
     {
       "name": "cat",
       "code": "72658591",
-      "fullName": "cat-js"
+      "fullName": "cat-js",
+      "cnName": "猫"
     },
     {
       "name": "dog",
       "code": "70746150",
-      "fullName": "dog-js"
+      "fullName": "dog-js",
+      "cnName": "狗"
     },
     {
       "name": "ant",
       "code": "70746215",
-      "fullName": "ant-js"
+      "fullName": "ant-js",
+      "cnName": "蚂蚁"
     },
     {
       "name": "pig",
       "code": "70749293",
-      "fullName": "pig-js"
+      "fullName": "pig-js",
+      "cnName": "猪"
     },
     {
       "name": "sheep",
       "code": "70750007",
-      "fullName": "sheep-js"
+      "fullName": "sheep-js",
+      "cnName": "羊"
     },
     {
       "name": "koala",
       "code": "70750089",
-      "fullName": "koala-js"
+      "fullName": "koala-js",
+      "cnName": "考拉"
     },
     {
       "name": "monkey",
       "code": "70750531",
-      "fullName": "monkey-js"
+      "fullName": "monkey-js",
+      "cnName": "猴子"
     },
     {
       "name": "bear",
       "code": "70750582",
-      "fullName": "bear-js"
+      "fullName": "bear-js",
+      "cnName": "熊"
     },
     {
       "name": "snake",
       "code": "70750638",
-      "fullName": "snake-js"
+      "fullName": "snake-js",
+      "cnName": "蛇"
     },
     {
       "name": "butterfly",
       "code": "70750798",
-      "fullName": "butterfly-js"
+      "fullName": "butterfly-js",
+      "cnName": "蝴蝶"
     },
     {
       "name": "fox",
       "code": "70750872",
-      "fullName": "fox-js"
+      "fullName": "fox-js",
+      "cnName": "狐狸"
     },
     {
       "name": "deer",
       "code": "70750953",
-      "fullName": "deer-js"
+      "fullName": "deer-js",
+      "cnName": "鹿"
     },
     {
       "name": "duck",
       "code": "70751028",
-      "fullName": "duck-js"
+      "fullName": "duck-js",
+      "cnName": "鸭子"
     },
     {
       "name": "cattle",
       "code": "70751211",
-      "fullName": "cattle-js"
+      "fullName": "cattle-js",
+      "cnName": "牛"
     },
     {
       "name": "snail",
       "code": "70751299",
-      "fullName": "snail-js"
+      "fullName": "snail-js",
+      "cnName": "蜗牛"
     },
     {
       "name": "owl",
       "code": "70752100",
-      "fullName": "owl-js"
+      "fullName": "owl-js",
+      "cnName": "猫头鹰"
     },
     {
       "name": "zebra",
       "code": "70752158",
-      "fullName": "zebra-js"
+      "fullName": "zebra-js",
+      "cnName": "斑马"
     },
     {
       "name": "parrot",
       "code": "70752245",
-      "fullName": "parrot-js"
+      "fullName": "parrot-js",
+      "cnName": "鹦鹉"
     },
     {
       "name": "alpaca",
       "code": "70752315",
-      "fullName": "alpaca-js"
+      "fullName": "alpaca-js",
+      "cnName": "羊驼"
     },
     {
       "name": "beetle",
       "code": "70752362",
-      "fullName": "beetle-js"
+      "fullName": "beetle-js",
+      "cnName": "甲壳虫"
     },
     {
       "name": "camel",
       "code": "70752397",
-      "fullName": "camel-js"
+      "fullName": "camel-js",
+      "cnName": "骆驼"
     },
     {
       "name": "frog",
       "code": "70752488",
-      "fullName": "frog-js"
+      "fullName": "frog-js",
+      "cnName": "青蛙"
     },
     {
       "name": "swallow",
       "code": "70752630",
-      "fullName": "swallow-js"
+      "fullName": "swallow-js",
+      "cnName": "燕子"
     },
     {
       "name": "tiger",
       "code": "70752665",
-      "fullName": "tiger-js"
+      "fullName": "tiger-js",
+      "cnName": "老虎"
     },
     {
       "name": "elephant",
       "code": "70752728",
-      "fullName": "elephant-js"
+      "fullName": "elephant-js",
+      "cnName": "大象"
     },
     {
       "name": "mouse",
       "code": "70752757",
-      "fullName": "mouse-js"
+      "fullName": "mouse-js",
+      "cnName": "老鼠"
     },
     {
       "name": "whale",
       "code": "70752793",
-      "fullName": "whale-js"
+      "fullName": "whale-js",
+      "cnName": "鲸鱼"
     },
     {
       "name": "dinosaur",
       "code": "70752846",
-      "fullName": "dinosaur-js"
+      "fullName": "dinosaur-js",
+      "cnName": "恐龙"
     },
     {
       "name": "hippo",
       "code": "70752881",
-      "fullName": "hippo-js"
+      "fullName": "hippo-js",
+      "cnName": "河马"
     },
     {
       "name": "gull",
       "code": "70752962",
-      "fullName": "gull-js"
+      "fullName": "gull-js",
+      "cnName": "海鸥"
     },
     {
       "name": "lark",
       "code": "70753047",
-      "fullName": "lark-js"
+      "fullName": "lark-js",
+      "cnName": "云雀"
     },
     {
       "name": "bird",
       "code": "70757307",
-      "fullName": "bird-js"
+      "fullName": "bird-js",
+      "cnName": "小鸟"
     },
     {
       "name": "peacock",
       "code": "70757494",
-      "fullName": "peacock-js"
+      "fullName": "peacock-js",
+      "cnName": "孔雀"
     },
     {
       "name": "swan",
       "code": "70757521",
-      "fullName": "swan-js"
+      "fullName": "swan-js",
+      "cnName": "天鹅"
     },
     {
       "name": "canary",
       "code": "70757575",
-      "fullName": "canary-js"
+      "fullName": "canary-js",
+      "cnName": "金丝雀"
     },
     {
       "name": "giraffe",
       "code": "70757639",
-      "fullName": "giraffe-js"
+      "fullName": "giraffe-js",
+      "cnName": "长颈鹿"
     },
     {
       "name": "reindeer",
       "code": "70757664",
-      "fullName": "reindeer-js"
+      "fullName": "reindeer-js",
+      "cnName": "驯鹿"
     },
     {
       "name": "orangutan",
       "code": "70757694",
-      "fullName": "orangutan-js"
+      "fullName": "orangutan-js",
+      "cnName": "猩猩"
     },
     {
       "name": "hedgehog",
       "code": "70757725",
-      "fullName": "hedgehog-js"
+      "fullName": "hedgehog-js",
+      "cnName": "刺猬"
     },
     {
       "name": "cicada",
       "code": "70757758",
-      "fullName": "cicada-js"
+      "fullName": "cicada-js",
+      "cnName": "蝉"
     },
     {
       "name": "kitten",
       "code": "70757890",
-      "fullName": "kitten-js"
+      "fullName": "kitten-js",
+      "cnName": "小猫"
     },
     {
       "name": "goldfish",
       "code": "70762676",
-      "fullName": "goldfish-js"
+      "fullName": "goldfish-js",
+      "cnName": "金鱼"
     },
     {
       "name": "tortoise",
       "code": "70783027",
-      "fullName": "tortoise-js"
+      "fullName": "tortoise-js",
+      "cnName": "乌龟"
     },
     {
       "name": "penguin",
       "code": "70783043",
-      "fullName": "penguin-js"
+      "fullName": "penguin-js",
+      "cnName": "企鹅"
     },
     {
       "name": "totoro",
       "code": "70783073",
-      "fullName": "totoro-js"
+      "fullName": "totoro-js",
+      "cnName": "龙猫"
     },
     {
       "name": "pikachu",
       "code": "70783107",
-      "fullName": "pikachu-js"
+      "fullName": "pikachu-js",
+      "cnName": "皮卡丘"
     },
     {
       "name": "crab",
       "code": "70783229",
-      "fullName": "crab-js"
+      "fullName": "crab-js",
+      "cnName": "螃蟹"
     },
     {
       "name": "rhinoceros",
       "code": "70783273",
-      "fullName": "rhinoceros-js"
+      "fullName": "rhinoceros-js",
+      "cnName": "犀牛"
     },
     {
       "name": "rabbit",
       "code": "70783302",
-      "fullName": "rabbit-js"
+      "fullName": "rabbit-js",
+      "cnName": "兔子"
     },
     {
       "name": "unicorn",
       "code": "70783423",
-      "fullName": "unicorn-js"
+      "fullName": "unicorn-js",
+      "cnName": "独角兽"
     },
     {
       "name": "squirrel",
       "code": "70783453",
-      "fullName": "squirrel-js"
+      "fullName": "squirrel-js",
+      "cnName": "松鼠"
     },
     {
       "name": "chick",
       "code": "70783479",
-      "fullName": "chick-js"
+      "fullName": "chick-js",
+      "cnName": "小鸡"
     },
     {
       "name": "clownfish",
       "code": "70783502",
-      "fullName": "clownfish-js"
+      "fullName": "clownfish-js",
+      "cnName": "小丑鱼"
     },
     {
       "name": "dolphin",
       "code": "70783522",
-      "fullName": "dolphin-js"
+      "fullName": "dolphin-js",
+      "cnName": "海豚"
     },
     {
       "name": "bat",
       "code": "70783585",
-      "fullName": "bat-js"
+      "fullName": "bat-js",
+      "cnName": "蝙蝠"
     },
     {
       "name": "honeybee",
       "code": "70783684",
-      "fullName": "honeybee-js"
+      "fullName": "honeybee-js",
+      "cnName": "小蜜蜂"
     },
     {
       "name": "pigeon",
       "code": "70783705",
-      "fullName": "pigeon-js"
+      "fullName": "pigeon-js",
+      "cnName": "鸽子"
     },
     {
       "name": "shark",
       "code": "70783812",
-      "fullName": "shark-ts"
+      "fullName": "shark-ts",
+      "cnName": "鲨鱼"
     },
     {
       "name": "dragon",
       "code": "70783905",
-      "fullName": "dragon-ts"
+      "fullName": "dragon-ts",
+      "cnName": "龙"
     },
     {
       "name": "otter",
       "code": "70784646",
-      "fullName": "otter-ts"
+      "fullName": "otter-ts",
+      "cnName": "水獭"
     },
     {
       "name": "wolf",
       "code": "70870347",
-      "fullName": "wolf-ts"
+      "fullName": "wolf-ts",
+      "cnName": "狼"
     },
     {
       "name": "goblin",
       "code": "71177746",
-      "fullName": "goblin-js"
+      "fullName": "goblin-js",
+      "cnName": "哥布林"
     },
     {
       "name": "flamingo",
       "code": "71747962",
-      "fullName": "flamingo-js"
+      "fullName": "flamingo-js",
+      "cnName": "火烈鸟"
     },
     {
       "name": "lion",
       "code": "72246448",
-      "fullName": "lion-ts"
+      "fullName": "lion-ts",
+      "cnName": "狮子"
     },
     {
       "name": "sun",
       "code": "72177992",
-      "fullName": "sun-vs"
+      "fullName": "sun-vs",
+      "cnName": "太阳"
     },
     {
       "name": "moon",
       "code": "72177911",
-      "fullName": "moon-js"
+      "fullName": "moon-js",
+      "cnName": "月亮"
     },
     {
       "name": "star",
       "code": "72178015",
-      "fullName": "star-js"
+      "fullName": "star-js",
+      "cnName": "星星"
     },
     {
       "name": "earth",
       "code": "72246621",
-      "fullName": "earth-js"
+      "fullName": "earth-js",
+      "cnName": "地球"
     },
     {
       "name": "panda",
       "code": "72590558",
-      "fullName": "panda-ts"
+      "fullName": "panda-ts",
+      "cnName": "熊猫"
     },
     {
       "name": "spider",
       "code": "72592115",
-      "fullName": "spider-ts"
+      "fullName": "spider-ts",
+      "cnName": "蜘蛛"
     },
     {
       "name": "apple",
       "code": "72603505",
-      "fullName": "apple-js"
+      "fullName": "apple-js",
+      "cnName": "苹果"
     },
     {
       "name": "coffee",
       "code": "72603566",
-      "fullName": "coffee-ts"
+      "fullName": "coffee-ts",
+      "cnName": "咖啡"
     },
     {
       "name": "heart",
       "code": "72603614",
-      "fullName": "heart-js"
+      "fullName": "heart-js",
+      "cnName": "心"
     },
     {
       "name": "tea",
       "code": "72603690",
-      "fullName": "tea-ts"
+      "fullName": "tea-ts",
+      "cnName": "茶"
     },
     {
       "name": "milk",
       "code": "72603746",
-      "fullName": "milk-js"
+      "fullName": "milk-js",
+      "cnName": "牛奶"
     },
     {
       "name": "beer",
       "code": "72603787",
-      "fullName": "beer-ts"
+      "fullName": "beer-ts",
+      "cnName": "啤酒"
     },
     {
       "name": "watermelon",
       "code": "72603976",
-      "fullName": "watermelon-js"
+      "fullName": "watermelon-js",
+      "cnName": "西瓜"
     },
     {
       "name": "strawberry",
       "code": "72604011",
-      "fullName": "strawberry-js"
+      "fullName": "strawberry-js",
+      "cnName": "草莓"
     },
     {
       "name": "banana",
       "code": "72604097",
-      "fullName": "banana-js"
+      "fullName": "banana-js",
+      "cnName": "香蕉"
     },
     {
       "name": "grape",
       "code": "72604170",
-      "fullName": "grape-js"
+      "fullName": "grape-js",
+      "cnName": "葡萄"
     },
     {
       "name": "cherry",
       "code": "72604201",
-      "fullName": "cherry-js"
+      "fullName": "cherry-js",
+      "cnName": "樱桃"
     },
     {
       "name": "horse",
       "code": "72602791",
-      "fullName": "horse-ts"
+      "fullName": "horse-ts",
+      "cnName": "马"
     },
     {
       "name": "flower",
       "code": "72603073",
-      "fullName": "flower-js"
+      "fullName": "flower-js",
+      "cnName": "花"
     },
     {
       "name": "carrot",
       "code": "73515996",
-      "fullName": "carrot-js"
+      "fullName": "carrot-js",
+      "cnName": "胡萝卜"
     },
     {
       "name": "acorn",
       "code": "74277347",
-      "fullName": "acorn-js"
+      "fullName": "acorn-js",
+      "cnName": "橡果"
     },
     {
       "name": "corn",
       "code": "74277443",
-      "fullName": "corn-js"
+      "fullName": "corn-js",
+      "cnName": "玉米"
     },
     {
       "name": "eve",
       "code": "74277666",
-      "fullName": "eve-js"
+      "fullName": "eve-js",
+      "cnName": "伊娃"
     },
     {
       "name": "walle",
       "code": "74277694",
-      "fullName": "walle-js"
+      "fullName": "walle-js",
+      "cnName": "瓦力"
     },
     {
       "name": "mermaid",
       "code": "74278228",
-      "fullName": "mermaid-ts"
+      "fullName": "mermaid-ts",
+      "cnName": "美人鱼"
     },
     {
       "name": "money",
       "code": "74278308",
-      "fullName": "money-js"
+      "fullName": "money-js",
+      "cnName": "钱袋"
     },
     {
       "name": "rainbow",
       "code": "74278426",
-      "fullName": "rainbow-js"
+      "fullName": "rainbow-js",
+      "cnName": "彩虹"
     },
     {
       "name": "rose",
       "code": "74278553",
-      "fullName": "rose-js"
+      "fullName": "rose-js",
+      "cnName": "玫瑰"
     }
   ]
 }
