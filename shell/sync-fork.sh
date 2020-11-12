@@ -1,3 +1,5 @@
+# Last execution time: 2020.11.11
+
 set -ex
 
 pets=$(jq .data json/organizations.json)
