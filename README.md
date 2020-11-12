@@ -23,6 +23,10 @@ Use like: `https://avatars0.githubusercontent.com/u/${code}?s=100&v=4`
 
 The organization full name.
 
+#### `cnName`
+
+The organization Chinese name.
+
 ### 🎈 members
 
 #### `name`
