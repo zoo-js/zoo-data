@@ -41,7 +41,7 @@ Update the number of members according to `organizations.json`.
 
 ## 🖇 shell
 
-### 📎 sybc-fork
+### 📎 sync-fork
 
 Bulk update `zoo` fork. Sorry, only I have permission. And this doesn't work on GitHub Actions.
 
