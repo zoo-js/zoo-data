@@ -554,6 +554,60 @@
       "code": "74278553",
       "fullName": "rose-js",
       "cnName": "玫瑰"
+    },
+    {
+      "name": "angel",
+      "code": "74403136",
+      "fullName": "angel-ts",
+      "cnName": "天使"
+    },
+    {
+      "name": "devil",
+      "code": "74403233",
+      "fullName": "devil-ts",
+      "cnName": "恶魔"
+    },
+    {
+      "name": "bug",
+      "code": "74403263",
+      "fullName": "bug-js",
+      "cnName": "bug"
+    },
+    {
+      "name": "raccoon",
+      "code": "74403310",
+      "fullName": "raccoon-ts",
+      "cnName": "浣熊"
+    },
+    {
+      "name": "sloth",
+      "code": "74403343",
+      "fullName": "sloth-js",
+      "cnName": "树獭"
+    },
+    {
+      "name": "mac",
+      "code": "74403452",
+      "fullName": "mac-js",
+      "cnName": "Mac"
+    },
+    {
+      "name": "hamster",
+      "code": "74403513",
+      "fullName": "hamster-ts",
+      "cnName": "仓鼠"
+    },
+    {
+      "name": "hamburger",
+      "code": "74403760",
+      "fullName": "hamburger-ts",
+      "cnName": "汉堡包"
+    },
+    {
+      "name": "coke",
+      "code": "74403781",
+      "fullName": "coke-js",
+      "cnName": "可乐"
     }
   ]
 }
