@@ -1,10 +1,12 @@
-# Last execution time: 2020.11.11
+# Last execution time: 2020.11.16
 
 set -ex
 
 pets=$(jq .data json/organizations.json)
 length=$(jq '.data|length' json/organizations.json)
 lengthA=`expr $length - 1`
+
+rm -rf snap
 
 for index in `seq 0 $lengthA`
   do
