@@ -620,6 +620,120 @@
       "code": "74405647",
       "fullName": "ipad-js",
       "cnName": "iPad"
+    },
+    {
+      "name": "sakura",
+      "code": "74705912",
+      "fullName": "sakura-js",
+      "cnName": "樱花"
+    },
+    {
+      "name": "peach",
+      "code": "74706015",
+      "fullName": "peach-js",
+      "cnName": "桃子"
+    },
+    {
+      "name": "mario",
+      "code": "74766766",
+      "fullName": "mario-ts",
+      "cnName": "马里奥"
+    },
+    {
+      "name": "hat",
+      "code": "74766840",
+      "fullName": "hat-js",
+      "cnName": "草帽"
+    },
+    {
+      "name": "starfish",
+      "code": "74766927",
+      "fullName": "starfish-ts",
+      "cnName": "海星"
+    },
+    {
+      "name": "pineapple",
+      "code": "74767007",
+      "fullName": "pineapple-js",
+      "cnName": "菠萝"
+    },
+    {
+      "name": "orange",
+      "code": "74767057",
+      "fullName": "orange-ts",
+      "cnName": "橙子"
+    },
+    {
+      "name": "popsicle",
+      "code": "74767080",
+      "fullName": "popsicle-js",
+      "cnName": "冰棒"
+    },
+    {
+      "name": "guitar",
+      "code": "74767123",
+      "fullName": "guitar-js",
+      "cnName": "吉他"
+    },
+    {
+      "name": "octopus",
+      "code": "74767200",
+      "fullName": "octopus-js",
+      "cnName": "章鱼"
+    },
+    {
+      "name": "jellyfish",
+      "code": "74767256",
+      "fullName": "jellyfish-js",
+      "cnName": "海蜇"
+    },
+    {
+      "name": "bot",
+      "code": "74767385",
+      "fullName": "bot-js",
+      "cnName": "机器人"
+    },
+    {
+      "name": "ufo",
+      "code": "74767474",
+      "fullName": "ufo-ts",
+      "cnName": "UFO"
+    },
+    {
+      "name": "pizza",
+      "code": "74767582",
+      "fullName": "pizza-js",
+      "cnName": "披萨"
+    },
+    {
+      "name": "cookie",
+      "code": "74767618",
+      "fullName": "cookie-js",
+      "cnName": "饼干"
+    },
+    {
+      "name": "egg",
+      "code": "74767710",
+      "fullName": "egg-js",
+      "cnName": "鸡蛋"
+    },
+    {
+      "name": "shrimp",
+      "code": "74776209",
+      "fullName": "shrimp-js",
+      "cnName": "虾"
+    },
+    {
+      "name": "ducky",
+      "code": "74776571",
+      "fullName": "ducky-js",
+      "cnName": "小鸭"
+    },
+    {
+      "name": "paper",
+      "code": "74776672",
+      "fullName": "paper-js",
+      "cnName": "卷纸"
     }
   ]
 }
