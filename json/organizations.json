@@ -734,6 +734,12 @@
       "code": "74776672",
       "fullName": "paper-js",
       "cnName": "卷纸"
+    },
+    {
+      "name": "chameleon",
+      "code": "74778605",
+      "fullName": "chameleon-ts",
+      "cnName": "变色龙"
     }
   ]
 }
