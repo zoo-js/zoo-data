@@ -740,6 +740,42 @@
       "code": "74778605",
       "fullName": "chameleon-ts",
       "cnName": "变色龙"
+    },
+    {
+      "name": "dad",
+      "code": "74909002",
+      "fullName": "dad-love",
+      "cnName": "爸爸"
+    },
+    {
+      "name": "mom",
+      "code": "74909025",
+      "fullName": "mom-love",
+      "cnName": "妈妈"
+    },
+    {
+      "name": "son",
+      "code": "74909162",
+      "fullName": "son-love",
+      "cnName": "儿子"
+    },
+    {
+      "name": "girl",
+      "code": "74909206",
+      "fullName": "girl-love",
+      "cnName": "女儿"
+    },
+    {
+      "name": "family",
+      "code": "74909267",
+      "fullName": "family-lovey",
+      "cnName": "家"
+    },
+    {
+      "name": "js",
+      "code": "74909967",
+      "fullName": "js-love",
+      "cnName": "JS"
     }
   ]
 }
