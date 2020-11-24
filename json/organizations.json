@@ -903,6 +903,13 @@
       "type": "life"
     },
     {
+      "name": "html",
+      "code": "74940766",
+      "fullName": "html-love",
+      "cnName": "HTML",
+      "type": "technology"
+    },
+    {
       "name": "js",
       "code": "74909967",
       "fullName": "js-love",
@@ -914,13 +921,6 @@
       "code": "74939759",
       "fullName": "css-love",
       "cnName": "CSS",
-      "type": "technology"
-    },
-    {
-      "name": "html",
-      "code": "74940766",
-      "fullName": "html-love",
-      "cnName": "HTML",
       "type": "technology"
     },
     {
