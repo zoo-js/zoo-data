@@ -19,8 +19,8 @@ for index in `seq 0 $lengthA`
     git config user.name "zoo-js-bot"
     git remote add zoo git@github.com:zoo-js/zoo.git
     git fetch zoo
-    git rebase zoo/main
-    git push -f
+    git reset --hard zoo/main
+    git push -f origin main:main
     cd ../../
     rm -rf snap
 
