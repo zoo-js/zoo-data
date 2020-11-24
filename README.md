@@ -27,6 +27,16 @@ The organization full name.
 
 The organization Chinese name.
 
+#### `type`
+
+| type | name | tip |
+| -- | -- | -- |
+| animal | 动物 | 字母排序 |
+| food | 食物 | 字母排序 |
+| natural | 自然 | 字母排序 |
+| life | 生活 | 不重新排序 |
+| technology | 技术 | 不重新排序 |
+
 ### 🎈 members
 
 #### `name`
