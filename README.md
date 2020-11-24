@@ -53,6 +53,10 @@ The number of people in the pet organization.
 
 Update the number of members according to `organizations.json`.
 
+### 🔥 update-fork
+
+Use env token to update fork for all orgs.
+
 ## 💬 How it work?
 
 1. Copy `test.env` to `.env`

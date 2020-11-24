@@ -3,6 +3,7 @@
 exit
 
 # 已作废，由于起初使用 Actions，导致 fork 工作都在跑 Actions，之后导致权限问题。计划更改为 api 形式。
+# ./script/update-fork.js
 
 set -ex
 
