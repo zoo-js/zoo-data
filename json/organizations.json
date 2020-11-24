@@ -2,9 +2,6 @@
   "name": "organizations",
   "description": "The information of all pets organizations.",
   "updateTime": "2020-11-13",
-  /*
-    type: animal food natural life technology
-  */
   "data": [
     {
       "name": "cat",
