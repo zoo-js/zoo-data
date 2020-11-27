@@ -508,13 +508,6 @@
       "type": "food"
     },
     {
-      "name": "heart",
-      "code": "72603614",
-      "fullName": "heart-js",
-      "cnName": "心",
-      "type": "life"
-    },
-    {
       "name": "tea",
       "code": "72603690",
       "fullName": "tea-ts",
@@ -620,10 +613,24 @@
       "type": "life"
     },
     {
-      "name": "mermaid",
-      "code": "74278228",
-      "fullName": "mermaid-ts",
-      "cnName": "美人鱼",
+      "name": "bot",
+      "code": "74767385",
+      "fullName": "bot-js",
+      "cnName": "机器人",
+      "type": "life"
+    },
+    {
+      "name": "ufo",
+      "code": "74767474",
+      "fullName": "ufo-ts",
+      "cnName": "UFO",
+      "type": "life"
+    },
+    {
+      "name": "airplane",
+      "code": "75106065",
+      "fullName": "awesome-airplane",
+      "cnName": "飞机",
       "type": "life"
     },
     {
@@ -631,6 +638,13 @@
       "code": "74278308",
       "fullName": "money-js",
       "cnName": "钱袋",
+      "type": "life"
+    },
+    {
+      "name": "mermaid",
+      "code": "74278228",
+      "fullName": "mermaid-ts",
+      "cnName": "美人鱼",
       "type": "life"
     },
     {
@@ -802,20 +816,6 @@
       "type": "animal"
     },
     {
-      "name": "bot",
-      "code": "74767385",
-      "fullName": "bot-js",
-      "cnName": "机器人",
-      "type": "life"
-    },
-    {
-      "name": "ufo",
-      "code": "74767474",
-      "fullName": "ufo-ts",
-      "cnName": "UFO",
-      "type": "life"
-    },
-    {
       "name": "pizza",
       "code": "74767582",
       "fullName": "pizza-js",
@@ -863,6 +863,13 @@
       "fullName": "chameleon-ts",
       "cnName": "变色龙",
       "type": "animal"
+    },
+    {
+      "name": "heart",
+      "code": "72603614",
+      "fullName": "heart-js",
+      "cnName": "心",
+      "type": "life"
     },
     {
       "name": "family",
