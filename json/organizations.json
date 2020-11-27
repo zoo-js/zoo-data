@@ -641,6 +641,13 @@
       "type": "life"
     },
     {
+      "name": "paper",
+      "code": "74776672",
+      "fullName": "paper-js",
+      "cnName": "卷纸",
+      "type": "life"
+    },
+    {
       "name": "mermaid",
       "code": "74278228",
       "fullName": "mermaid-ts",
@@ -849,13 +856,6 @@
       "fullName": "ducky-js",
       "cnName": "小鸭",
       "type": "animal"
-    },
-    {
-      "name": "paper",
-      "code": "74776672",
-      "fullName": "paper-js",
-      "cnName": "卷纸",
-      "type": "life"
     },
     {
       "name": "chameleon",
