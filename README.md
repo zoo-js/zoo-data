@@ -47,6 +47,9 @@ The name of pet organization.
 
 The number of people in the pet organization.
 
+#### `totalNumber`
+
+The number of people in all the pet organization.
 ## 🌈 script
 
 ### 🔥 update-members
