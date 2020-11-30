@@ -753,6 +753,13 @@
       "type": "animal"
     },
     {
+      "name": "polarbear",
+      "code": "75253783",
+      "fullName": "polarbear-love",
+      "cnName": "北极熊",
+      "type": "animal"
+    },
+    {
       "name": "mac",
       "code": "74403452",
       "fullName": "mac-js",
