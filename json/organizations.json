@@ -424,6 +424,13 @@
       "type": "animal"
     },
     {
+      "name": "capybara",
+      "code": "75229212",
+      "fullName": "capybara-love",
+      "cnName": "水豚",
+      "type": "animal"
+    },
+    {
       "name": "wolf",
       "code": "70870347",
       "fullName": "wolf-ts",
@@ -634,6 +641,27 @@
       "type": "life"
     },
     {
+      "name": "car",
+      "code": "75229308",
+      "fullName": "awesome-car",
+      "cnName": "汽车",
+      "type": "life"
+    },
+    {
+      "name": "cruise",
+      "code": "75229393",
+      "fullName": "awesome-cruise",
+      "cnName": "游轮",
+      "type": "life"
+    },
+    {
+      "name": "rocket",
+      "code": "75229421",
+      "fullName": "awesome-rocket",
+      "cnName": "火箭",
+      "type": "life"
+    },
+    {
       "name": "money",
       "code": "74278308",
       "fullName": "money-js",
@@ -659,6 +687,27 @@
       "code": "74278426",
       "fullName": "rainbow-js",
       "cnName": "彩虹",
+      "type": "natural"
+    },
+    {
+      "name": "bamboo",
+      "code": "75229454",
+      "fullName": "bamboo-love",
+      "cnName": "竹子",
+      "type": "natural"
+    },
+    {
+      "name": "tree",
+      "code": "75229551",
+      "fullName": "tree-love",
+      "cnName": "树林",
+      "type": "natural"
+    },
+    {
+      "name": "grass",
+      "code": "75229564",
+      "fullName": "grass-love",
+      "cnName": "草地",
       "type": "natural"
     },
     {
