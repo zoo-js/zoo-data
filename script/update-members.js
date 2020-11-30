@@ -13,6 +13,7 @@ const members = JSON.parse(fs.readFileSync('./json/members.json'));
 const day = new Date().toLocaleDateString();
 
 let newMembers = {...members};
+let totalNumber = 0;
 
 async function main() {
   newMembers.updateTime = day;
@@ -20,6 +21,7 @@ async function main() {
   for (var i = 0; i < organizations.data.length; i++) {
     let newNumber = await getNumber(organizations.data[i]);
     console.log(`Get! ${i}`);
+    totalNumber += newNumber.length - 1;
     arr.push({
       name: organizations.data[i].name,
       number: newNumber.length - 1
@@ -28,6 +30,7 @@ async function main() {
   if (arr.length === organizations.data.length) {
     console.log('done!');
     newMembers.data = arr;
+    newMembers.totalNumber = totalNumber;
     fs.writeFileSync('./json/members.json', JSON.stringify(newMembers));
   }
 }
