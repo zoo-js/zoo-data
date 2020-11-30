@@ -1,7 +1,7 @@
 {
   "name": "organizations",
   "description": "The information of all pets organizations.",
-  "updateTime": "2020-11-13",
+  "updateTime": "2020-11-30",
   "data": [
     {
       "name": "cat",
@@ -55,7 +55,7 @@
     {
       "name": "bear",
       "code": "70750582",
-      "fullName": "bear-love",
+      "fullName": "bear-js",
       "cnName": "熊",
       "type": "animal"
     },
@@ -531,7 +531,7 @@
     {
       "name": "beer",
       "code": "72603787",
-      "fullName": "beer-ts",
+      "fullName": "beer-love",
       "cnName": "啤酒",
       "type": "food"
     },
