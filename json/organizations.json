@@ -55,7 +55,7 @@
     {
       "name": "bear",
       "code": "70750582",
-      "fullName": "bear-js",
+      "fullName": "bear-love",
       "cnName": "熊",
       "type": "animal"
     },
@@ -433,7 +433,7 @@
     {
       "name": "wolf",
       "code": "70870347",
-      "fullName": "wolf-ts",
+      "fullName": "wolf-love",
       "cnName": "狼",
       "type": "animal"
     },
@@ -454,14 +454,14 @@
     {
       "name": "lion",
       "code": "72246448",
-      "fullName": "lion-ts",
+      "fullName": "lion-love",
       "cnName": "狮子",
       "type": "animal"
     },
     {
       "name": "sun",
       "code": "72177992",
-      "fullName": "sun-vs",
+      "fullName": "awesome-sun",
       "cnName": "太阳",
       "type": "natural"
     },
@@ -510,14 +510,14 @@
     {
       "name": "coffee",
       "code": "72603566",
-      "fullName": "coffee-ts",
+      "fullName": "coffee-love",
       "cnName": "咖啡",
       "type": "food"
     },
     {
       "name": "tea",
       "code": "72603690",
-      "fullName": "tea-ts",
+      "fullName": "tea-love",
       "cnName": "茶",
       "type": "food"
     },
@@ -629,7 +629,7 @@
     {
       "name": "ufo",
       "code": "74767474",
-      "fullName": "ufo-ts",
+      "fullName": "awesome-ufo",
       "cnName": "UFO",
       "type": "life"
     },
@@ -769,7 +769,7 @@
     {
       "name": "hamburger",
       "code": "74403760",
-      "fullName": "hamburger-ts",
+      "fullName": "hamburger-love",
       "cnName": "汉堡包",
       "type": "food"
     },
@@ -811,7 +811,7 @@
     {
       "name": "mario",
       "code": "74766766",
-      "fullName": "mario-ts",
+      "fullName": "mario-love",
       "cnName": "马里奥",
       "type": "life"
     },
