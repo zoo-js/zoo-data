@@ -45,6 +45,10 @@ async function getNumber(org) {
   return res.data;
 };
 
-(async () => {
-  await main();
-})();
+try {
+  (async () => {
+    await main();
+  })();
+} catch (err) {
+  throw new Error('err');
+}
