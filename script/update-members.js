@@ -20,11 +20,13 @@ async function main() {
   let arr = [];
   for (var i = 0; i < organizations.data.length; i++) {
     let newNumber = await getNumber(organizations.data[i]);
-    console.log(`Get! ${i}`);
-    totalNumber += newNumber.length - 1;
+    let name = organizations.data[i].name;
+    let orgNo = newNumber.length - 1;
+    console.log(`Get ${name}: ${orgNo}`);
+    totalNumber += orgNo;
     arr.push({
       name: organizations.data[i].name,
-      number: newNumber.length - 1
+      number: orgNo
     });
   }
   if (arr.length === organizations.data.length) {
