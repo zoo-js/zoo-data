@@ -1,8 +1,6 @@
 name: Update members number
 
 on:
-  push:
-    branches: main
   schedule:
     - cron: "30 15 * * *"
 
