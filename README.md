@@ -47,9 +47,10 @@ The name of pet organization.
 
 The number of people in the pet organization.
 
-#### `totalNumber`
+#### `total`
 
-The number of people in all the pet organization.
+The number of people in all the pet organization. Since when `2020-12-1`.
+
 ## 🌈 script
 
 ### 🔥 update-members

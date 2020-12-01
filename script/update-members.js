@@ -10,29 +10,50 @@ const octokit = new Octokit({ auth: `token ${githubToken}` });
 const organizations = JSON.parse(fs.readFileSync('./json/organizations.json'));
 const members = JSON.parse(fs.readFileSync('./json/members.json'));
 
-const day = new Date().toLocaleDateString();
+const year = new Date().getFullYear();
+const month = new Date().getMonth() + 1;
+const day = new Date().getDate();
+const now = `${year}-${month}-${day}`;
 
 let newMembers = {...members};
 let totalNumber = 0;
+let allUsers = [];
 
 async function main() {
-  newMembers.updateTime = day;
+  newMembers.updateTime = now;
   let arr = [];
+
   for (var i = 0; i < organizations.data.length; i++) {
-    let newNumber = await getNumber(organizations.data[i]);
     let name = organizations.data[i].name;
-    let orgNo = newNumber.length - 1;
+    let newNumber = await getNumber(organizations.data[i]);
+    const orgNo = newNumber.length - 1;
     console.log(`Get ${name}: ${orgNo}`);
-    totalNumber += orgNo;
+
+    newNumber.forEach(item => {
+      if (item.type === 'User' && item.login !== 'zoo-js-bot' && !allUsers.includes(item.login)) {
+        allUsers.push(item.login);
+        totalNumber += 1;
+      }
+    })
+
     arr.push({
-      name: organizations.data[i].name,
+      name,
       number: orgNo
     });
   }
+
   if (arr.length === organizations.data.length) {
-    console.log('done!');
+    console.log('All query done!');
     newMembers.data = arr;
-    newMembers.totalNumber = totalNumber;
+
+    newMembers.total.push({
+      year,
+      month,
+      day,
+      number: totalNumber
+    });
+
+    console.log(`${now} < ${totalNumber} >`);
     fs.writeFileSync('./json/members.json', JSON.stringify(newMembers));
   }
 }
