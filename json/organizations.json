@@ -466,6 +466,13 @@
       "type": "natural"
     },
     {
+      "name": "cloud",
+      "code": "75346941",
+      "fullName": "one-cloud",
+      "cnName": "云",
+      "type": "natural"
+    },
+    {
       "name": "moon",
       "code": "72177911",
       "fullName": "moon-js",
@@ -662,6 +669,13 @@
       "type": "life"
     },
     {
+      "name": "satellite",
+      "code": "75346563",
+      "fullName": "awesome-satellite",
+      "cnName": "卫星",
+      "type": "life"
+    },
+    {
       "name": "money",
       "code": "74278308",
       "fullName": "money-js",
@@ -736,6 +750,13 @@
       "code": "74403263",
       "fullName": "bug-js",
       "cnName": "bug",
+      "type": "technology"
+    },
+    {
+      "name": "pixel",
+      "code": "74531596",
+      "fullName": "pixel-js",
+      "cnName": "像素",
       "type": "technology"
     },
     {
@@ -956,10 +977,59 @@
       "type": "life"
     },
     {
+      "name": "daughter",
+      "code": "75346041",
+      "fullName": "daughter-love",
+      "cnName": "女儿",
+      "type": "life"
+    },
+    {
+      "name": "boy",
+      "code": "75346019",
+      "fullName": "boy-love",
+      "cnName": "男孩",
+      "type": "life"
+    },
+    {
       "name": "girl",
       "code": "74909206",
       "fullName": "girl-love",
-      "cnName": "女儿",
+      "cnName": "女孩",
+      "type": "life"
+    },
+    {
+      "name": "football",
+      "code": "75347290",
+      "fullName": "football-love",
+      "cnName": "足球",
+      "type": "life"
+    },
+    {
+      "name": "basketball",
+      "code": "75347301",
+      "fullName": "basketball-love",
+      "cnName": "篮球",
+      "type": "life"
+    },
+    {
+      "name": "pingpong",
+      "code": "75347472",
+      "fullName": "pingpong-love",
+      "cnName": "乒乓球",
+      "type": "life"
+    },
+    {
+      "name": "badminton",
+      "code": "75347679",
+      "fullName": "badminton-love",
+      "cnName": "羽毛球",
+      "type": "life"
+    },
+    {
+      "name": "tennis",
+      "code": "75347744",
+      "fullName": "tennis-love",
+      "cnName": "网球",
       "type": "life"
     },
     {
