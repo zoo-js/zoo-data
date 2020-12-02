@@ -641,10 +641,17 @@
       "type": "life"
     },
     {
-      "name": "airplane",
-      "code": "75106065",
-      "fullName": "awesome-airplane",
-      "cnName": "飞机",
+      "name": "bike",
+      "code": "75349299",
+      "fullName": "awesome-bike",
+      "cnName": "自行车",
+      "type": "life"
+    },
+    {
+      "name": "moto",
+      "code": "75349401",
+      "fullName": "awesome-moto",
+      "cnName": "摩托",
       "type": "life"
     },
     {
@@ -655,10 +662,24 @@
       "type": "life"
     },
     {
+      "name": "train",
+      "code": "75349718",
+      "fullName": "awesome-train",
+      "cnName": "火车",
+      "type": "life"
+    },
+    {
       "name": "cruise",
       "code": "75229393",
       "fullName": "awesome-cruise",
       "cnName": "游轮",
+      "type": "life"
+    },
+    {
+      "name": "airplane",
+      "code": "75106065",
+      "fullName": "awesome-airplane",
+      "cnName": "飞机",
       "type": "life"
     },
     {
