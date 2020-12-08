@@ -543,6 +543,13 @@
       "type": "food"
     },
     {
+      "name": "latte",
+      "code": "75675837",
+      "fullName": "latte-love",
+      "cnName": "拿铁",
+      "type": "food"
+    },
+    {
       "name": "tea",
       "code": "72603690",
       "fullName": "tea-love",
