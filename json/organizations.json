@@ -508,6 +508,27 @@
       "type": "animal"
     },
     {
+      "name": "seal",
+      "code": "75668689",
+      "fullName": "seal-lol",
+      "cnName": "海豹",
+      "type": "animal"
+    },
+    {
+      "name": "pelican",
+      "code": "75668824",
+      "fullName": "pelican-love",
+      "cnName": "鹈鹕",
+      "type": "animal"
+    },
+    {
+      "name": "kangaroo",
+      "code": "75668732",
+      "fullName": "kangaroo-love",
+      "cnName": "袋鼠",
+      "type": "animal"
+    },
+    {
       "name": "apple",
       "code": "72603505",
       "fullName": "apple-js",
@@ -536,10 +557,24 @@
       "type": "food"
     },
     {
+      "name": "ice cream",
+      "code": "75668531",
+      "fullName": "ice-cream-lol",
+      "cnName": "冰淇淋",
+      "type": "food"
+    },
+    {
       "name": "beer",
       "code": "72603787",
       "fullName": "beer-love",
       "cnName": "啤酒",
+      "type": "food"
+    },
+    {
+      "name": "cocktail",
+      "code": "75668876",
+      "fullName": "cocktail-love",
+      "cnName": "鸡尾酒",
       "type": "food"
     },
     {
@@ -872,6 +907,13 @@
       "type": "life"
     },
     {
+      "name": "balloon",
+      "code": "75668364",
+      "fullName": "balloon-js",
+      "cnName": "气球",
+      "type": "life"
+    },
+    {
       "name": "starfish",
       "code": "74766927",
       "fullName": "starfish-ts",
@@ -904,6 +946,13 @@
       "code": "74767123",
       "fullName": "guitar-js",
       "cnName": "吉他",
+      "type": "life"
+    },
+    {
+      "name": "radio",
+      "code": "75668924",
+      "fullName": "awesome-radio",
+      "cnName": "收音机",
       "type": "life"
     },
     {
