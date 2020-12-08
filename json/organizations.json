@@ -405,21 +405,21 @@
     {
       "name": "shark",
       "code": "70783812",
-      "fullName": "shark-ts",
+      "fullName": "shark-cool",
       "cnName": "鲨鱼",
       "type": "animal"
     },
     {
       "name": "dragon",
       "code": "70783905",
-      "fullName": "dragon-ts",
+      "fullName": "dragon-cool",
       "cnName": "龙",
       "type": "animal"
     },
     {
       "name": "otter",
       "code": "70784646",
-      "fullName": "otter-ts",
+      "fullName": "otter-love",
       "cnName": "水獭",
       "type": "animal"
     },
@@ -461,7 +461,7 @@
     {
       "name": "sun",
       "code": "72177992",
-      "fullName": "awesome-sun",
+      "fullName": "sun-cool",
       "cnName": "太阳",
       "type": "natural"
     },
@@ -496,21 +496,21 @@
     {
       "name": "panda",
       "code": "72590558",
-      "fullName": "panda-ts",
+      "fullName": "cute-panda",
       "cnName": "熊猫",
       "type": "animal"
     },
     {
       "name": "spider",
       "code": "72592115",
-      "fullName": "spider-ts",
+      "fullName": "spider-cool",
       "cnName": "蜘蛛",
       "type": "animal"
     },
     {
       "name": "seal",
       "code": "75668689",
-      "fullName": "seal-lol",
+      "fullName": "seal-cool",
       "cnName": "海豹",
       "type": "animal"
     },
@@ -559,7 +559,7 @@
     {
       "name": "ice cream",
       "code": "75668531",
-      "fullName": "ice-cream-lol",
+      "fullName": "ice-cream-cool",
       "cnName": "冰淇淋",
       "type": "food"
     },
@@ -615,7 +615,7 @@
     {
       "name": "horse",
       "code": "72602791",
-      "fullName": "horse-ts",
+      "fullName": "horse-love",
       "cnName": "马",
       "type": "animal"
     },
@@ -748,7 +748,7 @@
     {
       "name": "mermaid",
       "code": "74278228",
-      "fullName": "mermaid-ts",
+      "fullName": "mermaid-love",
       "cnName": "美人鱼",
       "type": "life"
     },
@@ -790,14 +790,14 @@
     {
       "name": "angel",
       "code": "74403136",
-      "fullName": "angel-ts",
+      "fullName": "angel-cool",
       "cnName": "天使",
       "type": "life"
     },
     {
       "name": "devil",
       "code": "74403233",
-      "fullName": "devil-ts",
+      "fullName": "devil-cool",
       "cnName": "恶魔",
       "type": "life"
     },
@@ -818,7 +818,7 @@
     {
       "name": "raccoon",
       "code": "74403310",
-      "fullName": "raccoon-ts",
+      "fullName": "raccoon-cool",
       "cnName": "浣熊",
       "type": "animal"
     },
@@ -846,7 +846,7 @@
     {
       "name": "hamster",
       "code": "74403513",
-      "fullName": "hamster-ts",
+      "fullName": "hamster-love",
       "cnName": "仓鼠",
       "type": "animal"
     },
@@ -916,7 +916,7 @@
     {
       "name": "starfish",
       "code": "74766927",
-      "fullName": "starfish-ts",
+      "fullName": "starfish-cool",
       "cnName": "海星",
       "type": "animal"
     },
@@ -930,7 +930,7 @@
     {
       "name": "orange",
       "code": "74767057",
-      "fullName": "orange-ts",
+      "fullName": "orange-cool",
       "cnName": "橙子",
       "type": "food"
     },
@@ -1007,7 +1007,7 @@
     {
       "name": "chameleon",
       "code": "74778605",
-      "fullName": "chameleon-ts",
+      "fullName": "chameleon-love",
       "cnName": "变色龙",
       "type": "animal"
     },
