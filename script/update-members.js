@@ -54,7 +54,7 @@ async function main() {
     });
 
     console.log(`${now} < ${totalNumber} >`);
-    fs.writeFileSync('./json/members.json', JSON.stringify(newMembers));
+    fs.writeFileSync('./json/members.json', JSON.stringify(newMembers, null, 2));
   }
 }
 
