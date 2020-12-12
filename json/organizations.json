@@ -1131,6 +1131,13 @@
       "type": "technology"
     },
     {
+      "name": "c",
+      "code": "75880060",
+      "fullName": "c-cool",
+      "cnName": "C",
+      "type": "technology"
+    },
+    {
       "name": "vue",
       "code": "74940734",
       "fullName": "love-vue",
@@ -1142,6 +1149,13 @@
       "code": "74940835",
       "fullName": "LoveReact",
       "cnName": "React",
+      "type": "technology"
+    },
+    {
+      "name": "go",
+      "code": "75879141",
+      "fullName": "golang-cool",
+      "cnName": "go",
       "type": "technology"
     }
   ]
