@@ -592,6 +592,13 @@
       "type": "food"
     },
     {
+      "name": "lemon",
+      "code": "76079628",
+      "fullName": "lemon-cool",
+      "cnName": "柠檬",
+      "type": "food"
+    },
+    {
       "name": "strawberry",
       "code": "72604011",
       "fullName": "strawberry-js",
@@ -1131,10 +1138,10 @@
       "type": "technology"
     },
     {
-      "name": "c",
+      "name": "c++",
       "code": "75880060",
       "fullName": "c-cool",
-      "cnName": "C",
+      "cnName": "C++",
       "type": "technology"
     },
     {
