@@ -690,6 +690,20 @@
       "type": "life"
     },
     {
+      "name": "Cool Game",
+      "code": "76771872",
+      "fullName": "game-cool",
+      "cnName": "Cool Game",
+      "type": "life"
+    },
+    {
+      "name": "Love Game",
+      "code": "76772043",
+      "fullName": "game-love",
+      "cnName": "Love Game",
+      "type": "life"
+    },
+    {
       "name": "bike",
       "code": "75349299",
       "fullName": "awesome-bike",
@@ -746,6 +760,13 @@
       "type": "life"
     },
     {
+      "name": "rubikcube",
+      "code": "76771802",
+      "fullName": "rubikcube-cool",
+      "cnName": "魔方",
+      "type": "life"
+    },
+    {
       "name": "money",
       "code": "74278308",
       "fullName": "money-js",
@@ -788,6 +809,13 @@
       "type": "natural"
     },
     {
+      "name": "cactus",
+      "code": "76771911",
+      "fullName": "cactus-js",
+      "cnName": "仙人掌",
+      "type": "natural"
+    },
+    {
       "name": "grass",
       "code": "75229564",
       "fullName": "grass-love",
@@ -814,6 +842,13 @@
       "fullName": "devil-cool",
       "cnName": "恶魔",
       "type": "life"
+    },
+    {
+      "name": "cool",
+      "code": "76770272",
+      "fullName": "awesome-cool",
+      "cnName": "赞",
+      "type": "technology"
     },
     {
       "name": "bug",
@@ -921,6 +956,13 @@
       "type": "life"
     },
     {
+      "name": "bell",
+      "code": "76771983",
+      "fullName": "bell-js",
+      "cnName": "铃铛",
+      "type": "life"
+    },
+    {
       "name": "balloon",
       "code": "75668364",
       "fullName": "balloon-js",
@@ -956,10 +998,24 @@
       "type": "food"
     },
     {
+      "name": "piano",
+      "code": "76772186",
+      "fullName": "piano-love",
+      "cnName": "钢琴",
+      "type": "life"
+    },
+    {
       "name": "guitar",
       "code": "74767123",
       "fullName": "guitar-js",
       "cnName": "吉他",
+      "type": "life"
+    },
+    {
+      "name": "TV",
+      "code": "76771853",
+      "fullName": "tv-cool",
+      "cnName": " 电视",
       "type": "life"
     },
     {
@@ -1030,6 +1086,20 @@
       "code": "72603614",
       "fullName": "heart-js",
       "cnName": "心",
+      "type": "life"
+    },
+    {
+      "name": "Hand Print",
+      "code": "76772109",
+      "fullName": "hand-print",
+      "cnName": "手掌",
+      "type": "life"
+    },
+    {
+      "name": "smiley",
+      "code": "76772024",
+      "fullName": "smiley-love",
+      "cnName": "笑脸",
       "type": "life"
     },
     {
