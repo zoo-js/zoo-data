@@ -1187,6 +1187,223 @@
       "type": "life"
     },
     {
+      "name": "smile emoji",
+      "code": "77186927",
+      "fullName": "emoji-smile",
+      "cnName": "微笑 emoji",
+      "type": "life"
+    },
+    {
+      "name": "sad emoji",
+      "code": "77186957",
+      "fullName": "emoji-sad",
+      "cnName": "悲伤 emoji",
+      "type": "life"
+    },
+    {
+      "name": "love emoji",
+      "code": "77186973",
+      "fullName": "emoji-love",
+      "cnName": "爱 emoji",
+      "type": "life"
+    },
+    {
+      "name": "sleeping emoji",
+      "code": "77186988",
+      "fullName": "emoji-sleeping",
+      "cnName": "熟睡 emoji",
+      "type": "life"
+    },
+    {
+      "name": "sick emoji",
+      "code": "77187009",
+      "fullName": "emoji-sick",
+      "cnName": "生病 emoji",
+      "type": "life"
+    },
+    {
+      "name": "dizzy emoji",
+      "code": "77187061",
+      "fullName": "emoji-dizzy",
+      "cnName": "晕 emoji",
+      "type": "life"
+    },
+    {
+      "name": "thinking emoji",
+      "code": "77187093",
+      "fullName": "emoji-thinking",
+      "cnName": "思考 emoji",
+      "type": "life"
+    },
+    {
+      "name": "angry emoji",
+      "code": "77187110",
+      "fullName": "emoji-angry",
+      "cnName": "生气 emoji",
+      "type": "life"
+    },
+    {
+      "name": "happy emoji",
+      "code": "77187119",
+      "fullName": "emoji-happy",
+      "cnName": "开心 emoji",
+      "type": "life"
+    },
+    {
+      "name": "cool emoji",
+      "code": "77187135",
+      "fullName": "emoji-cool",
+      "cnName": "酷 emoji",
+      "type": "life"
+    },
+    {
+      "name": "sweat emoji",
+      "code": "77187159",
+      "fullName": "emoji-sweat",
+      "cnName": "流汗 emoji",
+      "type": "life"
+    },
+    {
+      "name": "scared emoji",
+      "code": "77187186",
+      "fullName": "emoji-scared",
+      "cnName": "害怕 emoji",
+      "type": "life"
+    },
+    {
+      "name": "daze emoji",
+      "code": "77187207",
+      "fullName": "emoji-daze",
+      "cnName": "呆滞 emoji",
+      "type": "life"
+    },
+    {
+      "name": "joy emoji",
+      "code": "77187264",
+      "fullName": "emoji-joy",
+      "cnName": "哭笑 emoji",
+      "type": "life"
+    },
+    {
+      "name": "cry emoji",
+      "code": "77187287",
+      "fullName": "emoji-cry",
+      "cnName": "哭 emoji",
+      "type": "life"
+    },
+    {
+      "name": "wink emoji",
+      "code": "77187300",
+      "fullName": "emoji-wink",
+      "cnName": "眨眼 emoji",
+      "type": "life"
+    },
+    {
+      "name": "confused emoji",
+      "code": "77187312",
+      "fullName": "emoji-confused",
+      "cnName": "困惑 emoji",
+      "type": "life"
+    },
+    {
+      "name": "surprised emoji",
+      "code": "77187338",
+      "fullName": "emoji-surprised",
+      "cnName": "惊讶 emoji",
+      "type": "life"
+    },
+    {
+      "name": "unamused emoji",
+      "code": "77187357",
+      "fullName": "emoji-unamused",
+      "cnName": "无趣 emoji",
+      "type": "life"
+    },
+    {
+      "name": "injury emoji",
+      "code": "77187377",
+      "fullName": "emoji-injury",
+      "cnName": "受伤 emoji",
+      "type": "life"
+    },
+    {
+      "name": "shocked emoji",
+      "code": "77187402",
+      "fullName": "emoji-shocked",
+      "cnName": "震惊 emoji",
+      "type": "life"
+    },
+    {
+      "name": "mask emoji",
+      "code": "77187411",
+      "fullName": "emoji-mask",
+      "cnName": "口罩 emoji",
+      "type": "life"
+    },
+    {
+      "name": "tongue emoji",
+      "code": "77187429",
+      "fullName": "emoji-tongue",
+      "cnName": "吐舌 emoji",
+      "type": "life"
+    },
+    {
+      "name": "tired emoji",
+      "code": "77187436",
+      "fullName": "emoji-tired",
+      "cnName": "疲惫 emoji",
+      "type": "life"
+    },
+    {
+      "name": "secret emoji",
+      "code": "77187461",
+      "fullName": "emoji-secret",
+      "cnName": "秘密 emoji",
+      "type": "life"
+    },
+    {
+      "name": "smirking emoji",
+      "code": "77187474",
+      "fullName": "emoji-smirking",
+      "cnName": "诡笑 emoji",
+      "type": "life"
+    },
+    {
+      "name": "clever emoji",
+      "code": "77187519",
+      "fullName": "emoji-clever",
+      "cnName": "乖笑 emoji",
+      "type": "life"
+    },
+    {
+      "name": "awkward emoji",
+      "code": "77187549",
+      "fullName": "emoji-awkward",
+      "cnName": "尬笑 emoji",
+      "type": "life"
+    },
+    {
+      "name": "expressionless emoji",
+      "code": "77187561",
+      "fullName": "emoji-expressionless",
+      "cnName": "无表情 emoji",
+      "type": "life"
+    },
+    {
+      "name": "mute emoji",
+      "code": "77187595",
+      "fullName": "emoji-mute",
+      "cnName": "无语 emoji",
+      "type": "life"
+    },
+    {
+      "name": "kiss emoji",
+      "code": "77188037",
+      "fullName": "emoji-kiss",
+      "cnName": "亲亲 emoji",
+      "type": "life"
+    },
+    {
       "name": "html",
       "code": "74940766",
       "fullName": "html-love",
