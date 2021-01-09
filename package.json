@@ -1,4 +1,8 @@
 {
+  "name": "zoo-data",
+  "scripts": {
+    "fork": "node ./script/update-fork.js"
+  },
   "dependencies": {
     "@octokit/rest": "^18.0.6",
     "dotenv": "^8.2.0"
