@@ -21,8 +21,8 @@ jobs:
       - name: Commit and push if changed
         run: |-
           git diff
-          git config --global user.email "xrkffgg@vip.qq.com"
-          git config --global user.name "xrkffgg"
+          git config --global user.email "xrkffgg@163.com"
+          git config --global user.name "zoo-js-bot"
           git pull
           git add -A
           git commit -m "🤖 auto: updated members number" || exit 0
