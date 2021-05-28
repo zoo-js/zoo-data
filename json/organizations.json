@@ -18,13 +18,6 @@
       "type": "animal"
     },
     {
-      "name": "ant",
-      "code": "70746215",
-      "fullName": "ant-js",
-      "cnName": "蚂蚁",
-      "type": "animal"
-    },
-    {
       "name": "pig",
       "code": "70749293",
       "fullName": "pig-js",
