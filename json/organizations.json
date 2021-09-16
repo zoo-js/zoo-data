@@ -1425,6 +1425,13 @@
       "type": "technology"
     },
     {
+      "name": "C++",
+      "code": "90814306",
+      "fullName": "cool-cpp",
+      "cnName": "C++",
+      "type": "technology"
+    },
+    {
       "name": "vue",
       "code": "74940734",
       "fullName": "love-vue",
