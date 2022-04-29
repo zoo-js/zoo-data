@@ -1418,6 +1418,13 @@
       "type": "technology"
     },
     {
+      "name": "ts",
+      "code": "104607604",
+      "fullName": "ts-love",
+      "cnName": "TS",
+      "type": "technology"
+    },
+    {
       "name": "css",
       "code": "74939759",
       "fullName": "css-love",
