@@ -1,7 +1,7 @@
 {
   "name": "members",
   "description": "The members number of all pets organizations.",
-  "updateTime": "2022-6-6",
+  "updateTime": "2022-6-7",
   "data": [
     {
       "name": "cat",
@@ -421,7 +421,7 @@
     },
     {
       "name": "airplane",
-      "number": 2
+      "number": 3
     },
     {
       "name": "gundam",
@@ -813,7 +813,7 @@
     },
     {
       "name": "ts",
-      "number": 1
+      "number": 2
     },
     {
       "name": "css",
@@ -833,7 +833,7 @@
     },
     {
       "name": "react",
-      "number": 6
+      "number": 7
     }
   ],
   "total": [
@@ -4124,6 +4124,12 @@
       "month": 6,
       "day": 6,
       "number": 146
+    },
+    {
+      "year": 2022,
+      "month": 6,
+      "day": 7,
+      "number": 147
     }
   ]
 }
