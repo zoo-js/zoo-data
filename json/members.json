@@ -1,7 +1,7 @@
 {
   "name": "members",
   "description": "The members number of all pets organizations.",
-  "updateTime": "2022-6-8",
+  "updateTime": "2022-6-9",
   "data": [
     {
       "name": "cat",
@@ -437,7 +437,7 @@
     },
     {
       "name": "rubikcube",
-      "number": 0
+      "number": 1
     },
     {
       "name": "money",
@@ -4135,6 +4135,12 @@
       "year": 2022,
       "month": 6,
       "day": 8,
+      "number": 149
+    },
+    {
+      "year": 2022,
+      "month": 6,
+      "day": 9,
       "number": 149
     }
   ]
