@@ -1,7 +1,7 @@
 {
   "name": "members",
   "description": "The members number of all pets organizations.",
-  "updateTime": "2023-5-31",
+  "updateTime": "2023-6-1",
   "data": [
     {
       "name": "cat",
@@ -6271,6 +6271,12 @@
       "year": 2023,
       "month": 5,
       "day": 31,
+      "number": 170
+    },
+    {
+      "year": 2023,
+      "month": 6,
+      "day": 1,
       "number": 170
     }
   ]
